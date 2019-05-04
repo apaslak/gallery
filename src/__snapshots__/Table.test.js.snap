@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders data 1`] = `
+<div
+  style={
+    Object {
+      "boxSizing": "border-box",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "paddingLeft": "15px",
+      "paddingRight": "15px",
+      "position": "relative",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "alignItems": "normal",
+        "display": "flex",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "flexWrap": "wrap",
+        "justifyContent": "flex-start",
+        "marginLeft": "-15px",
+        "marginRight": "-15px",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "boxSizing": "border-box",
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 0,
+          "left": "auto",
+          "marginLeft": "0%",
+          "maxWidth": "100%",
+          "minHeight": "1px",
+          "paddingLeft": "15px",
+          "paddingRight": "15px",
+          "position": "relative",
+          "right": "auto",
+          "width": "100%",
+        }
+      }
+    >
+      <img
+        alt="ABC"
+        onClick={[Function]}
+        src="https://abc.com"
+      />
+    </div>
+  </div>
+  <div
+    style={
+      Object {
+        "alignItems": "normal",
+        "display": "flex",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "flexWrap": "wrap",
+        "justifyContent": "flex-start",
+        "marginLeft": "-15px",
+        "marginRight": "-15px",
+      }
+    }
+  >
+    <div
+      style={
+        Object {
+          "boxSizing": "border-box",
+          "flexBasis": 0,
+          "flexGrow": 1,
+          "flexShrink": 0,
+          "left": "auto",
+          "marginLeft": "0%",
+          "maxWidth": "100%",
+          "minHeight": "1px",
+          "paddingLeft": "15px",
+          "paddingRight": "15px",
+          "position": "relative",
+          "right": "auto",
+          "width": "100%",
+        }
+      }
+    >
+      <img
+        alt="DEF"
+        onClick={[Function]}
+        src="https://def.com"
+      />
+    </div>
+  </div>
+  <span
+    style={
+      Object {
+        "clear": "both",
+        "display": "table",
+      }
+    }
+  />
+</div>
+`;
+
+exports[`renders without crashing 1`] = `
+<div
+  style={
+    Object {
+      "boxSizing": "border-box",
+      "marginLeft": "auto",
+      "marginRight": "auto",
+      "paddingLeft": "15px",
+      "paddingRight": "15px",
+      "position": "relative",
+    }
+  }
+>
+  
+  <span
+    style={
+      Object {
+        "clear": "both",
+        "display": "table",
+      }
+    }
+  />
+</div>
+`;
