@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-gallery-app/static/css/main.099ae5d5.chunk.css",
-    "main.js": "/react-gallery-app/static/js/main.9f7b2ee5.chunk.js",
-    "main.js.map": "/react-gallery-app/static/js/main.9f7b2ee5.chunk.js.map",
+    "main.js": "/react-gallery-app/static/js/main.bb4b3048.chunk.js",
+    "main.js.map": "/react-gallery-app/static/js/main.bb4b3048.chunk.js.map",
     "runtime~main.js": "/react-gallery-app/static/js/runtime~main.e23eecc0.js",
     "runtime~main.js.map": "/react-gallery-app/static/js/runtime~main.e23eecc0.js.map",
-    "static/js/2.38d3feae.chunk.js": "/react-gallery-app/static/js/2.38d3feae.chunk.js",
-    "static/js/2.38d3feae.chunk.js.map": "/react-gallery-app/static/js/2.38d3feae.chunk.js.map",
+    "static/js/2.f073d2cc.chunk.js": "/react-gallery-app/static/js/2.f073d2cc.chunk.js",
+    "static/js/2.f073d2cc.chunk.js.map": "/react-gallery-app/static/js/2.f073d2cc.chunk.js.map",
     "index.html": "/react-gallery-app/index.html",
-    "precache-manifest.361a052a599e5afc5011eecdd218fec4.js": "/react-gallery-app/precache-manifest.361a052a599e5afc5011eecdd218fec4.js",
+    "precache-manifest.dac4011c0c435e9fa96af64dd20c80e9.js": "/react-gallery-app/precache-manifest.dac4011c0c435e9fa96af64dd20c80e9.js",
     "service-worker.js": "/react-gallery-app/service-worker.js",
     "static/css/main.099ae5d5.chunk.css.map": "/react-gallery-app/static/css/main.099ae5d5.chunk.css.map"
   }
